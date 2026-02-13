@@ -4,6 +4,7 @@
 The objective was to implement an energy monitoring system using FreeRTOS to manage multiple real-time tasks. The system measures voltage, current, grid frequency, and power factor, integrating different hardware modules and communication interfaces.
 
 ## Technologies and Components
+BOARD - NUCLEO F446RE 
 
 FreeRTOS – Task management and synchronization using semaphores
 
