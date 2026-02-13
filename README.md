@@ -28,3 +28,11 @@ Bluetooth transmission task
 Task scheduling and prioritization handled by FreeRTOS
 
 Measured data is serialized into communication frames and transmitted via Bluetooth to a mobile Android application for remote monitoring. 
+## Task schedule 
+![Task Schedule](Images/1.png)
+
+
+## Results 
+![](Images/2.png) 
+
+![](Images/3.png)
