@@ -33,6 +33,6 @@ Measured data is serialized into communication frames and transmitted via Blueto
 
 
 ## Results 
-![](Images/2.png) 
+![](Images/2.jpeg) 
 
-![](Images/3.png)
+![](Images/3.jpeg)
